@@ -1,0 +1,1 @@
+Make sure all the 'value.txt' files are in the same folder as Episode grabber.exe
