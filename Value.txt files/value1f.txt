@@ -1,0 +1,23 @@
+ <body>
+        <link rel="stylesheet" href="style.css" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+
+        <div class="top-bar">
+            <span class="topText"><a class="topLinks" href="../"><b>Home</b></a></span>
+            <span class="topText"><a class="topLinks" href="../projects.html"><b>Projects</b></a></span>
+            <span class="topText"><a class="topLinks" href="https://github.com/bansaidnes" target="_blank"><b>Github</b></a></span>
+            <span class="topText"><a class="topLinks" href="https://www.youtube.com/channel/UCAsfY8YOgFJcWv1cX9z3-2A" target="_blank"><b>Youtube</b></a></span>
+            <div class="dropdown">
+                <button class="dropbtn"><b>Socials</b></button>
+                <div class="dropdown-content">
+                    <a><b>Discord: Bansaidnes#3275</b></a>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+	<br/>
